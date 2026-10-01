@@ -1,0 +1,121 @@
+    1  ls
+    2  clear
+    3  ipa
+    4  ip a
+    5  ping 8.8.8.8
+    6  ls -a
+    7  bye
+    8  python
+    9  python3 -version
+   10  python3
+   11  python3 --version
+   12  python --version
+   13  clear
+   14  pwd
+   15  clear
+   16  exit
+   17  bye
+   18  exit
+   19  pwd
+   20  ls
+   21  /home/mannat
+   22  /home/mannat ls
+   23  mannat@DESKTOP-RQAEQLM:~$ /home/mannat ls
+   24  ls
+   25  ls -a
+   26  ls -l
+   27  bin/ls/
+   28  /bin/ls
+   29  mannat@DESKTOP-RQAEQLM:~$ wsl
+   30  mannat@DESKTOP-RQAEQLM:~$ wsl ls
+   31  coding-cafe/
+   32  mkdir coding-cafe
+   33  ls
+   34  ls -a
+   35  mkdir mannat@DESKTOP-RQAEQLM/coding-cafe/week01
+   36  mkdir manat02
+   37  ls
+   38  ls -a
+   39  pwd
+   40  mkdir home/mannat/coding-cafe/week01
+   41  home/mannat/coding cafe mkdir week 01
+   42  exit
+   43  pwd
+   44  ls
+   45  ls -a
+   46  mkdir coding-cafe/01
+   47  ls  coding-cafe
+   48  ls
+   49  pwd
+   50  ls -l
+   51  ls coding-cafe/
+   52  cp coding-cafe/ /mnt/c/Users/Pc/Desktop/
+   53  cp -r coding-cafe/ /mnt/c/Users/Pc/Desktop/
+   54  ls
+   55  cd /mnt/c/Users/Pc/Desktop/
+   56  ls
+   57  cd ~
+   58  ls /mnt/c/Users/Pc/Desktop/
+   59  history
+   60  clear
+   61  pwd
+   62  history
+   63  clear
+   64  cd /mnt/c/Users/Pc/Desktop/
+   65  pwd
+   66  ls
+   67  ls -a
+   68  echo $SHELL
+   69  ls -l
+   70  coding-cafe
+   71  coding-cafecd /mnt/c/Users/Pc/Desktop/
+   72  touch notes.md
+   73  ls 
+   74  ls coding-cafe
+   75  cd coding-cafe
+   76  touch notes.md
+   77  ls
+   78  cd
+   79  cd /mnt/c/Users/Pc/Desktop
+   80  touch coding-cafe/README.md
+   81  ls coding-cafe
+   82  mkdir coding-cafe/week03
+   83  ls coding-cafe
+   84  cd coding-cafe
+   85  touch seeme.md
+   86  ls
+   87  history
+   88  ls coding-cafe/week02
+   89  coding-cafe/week02
+   90  cd
+   91  ls coding-cafe/week02
+   92  ls
+   93  pwd
+   94  ls
+   95  ls -a
+   96  ls -l
+   97  history
+   98  cd /mnt/c/Users/Pc/Desktop/coding-cafe
+   99  cp README.md README-backup.md
+  100  ls
+  101  mv README-backup.md week01/
+  102  ls
+  103  cd week01
+  104  mv README-backup.md old-readme.md
+  105  ls
+  106  echo $PATH
+  107  which python3
+  108  which pip
+  109  which ls
+  110  echo $SHELL
+  111  python3
+  112  cd /mnt/c/Users/Pc/Desktop/coding-cafe/
+  113  python3 -m venv .venv
+  114  ls
+  115  ls -a
+  116  source .venv/bin/activate
+  117  python3
+  118  histroy
+  119  history
+  120  cd /mnt/c/Users/Pc/Desktop/coding-cafe/
+  121  history> week02/lab01-log.txt
